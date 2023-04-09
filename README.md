@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm toxicking_techguru (Brian)</h1>
-<h3 align="center">A passionate fullstack developer ,bug hunter DivOps and mathematician</h3>
+<h3 align="center">A passionate fullstack developer ,bug hunter,DivOps and mathematician</h3>
  <img src="https://gifdb.com/images/high/man-quick-system-coding-vgsda2t7d5tu7o9x.gif" alt="Image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxicking-techguru&label=Profile%20views&color=0e75b6&style=flat" alt="toxicking-techguru" /> </p>
 
