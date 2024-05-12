@@ -18,6 +18,8 @@
 - 📫 How to reach me **toxicking2659@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/toxicking-techguru/education-and-cv](https://github.com/toxicking-techguru/education-and-cv)
+- - 📄 My portfolio [http://brian.xenneotechs.com/)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
