@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toxicking-techguru" alt="toxicking-techguru" /></a> </p>
 
-- 🔭 I’m currently working on [bug hunting website](techsta.net)
+- 🔭 I’m currently working on [https://xenneotechs.com/)
 
 - 🌱 I’m currently learning **Continuous integration tools: Jenkins, Bamboo Databases/Data storages: PostgreSQL, Oracle, MS SQL Server, Derby, ElasticSearch, MongoDB, LDAP, ravenDB ,firebaseDB. Application and web servers: Apache Tomcat, JBoss AS, Jetty, IBM WebShere, Oracle Application Server, WebLogic, Windows Server IIS, Nginx**
 
