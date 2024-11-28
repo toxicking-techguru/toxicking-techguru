@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm toxicking_techguru (Brian)</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate fullstack developer ,bug hunter,DivOps and mathematician</h3>
  <img src="https://gifdb.com/images/high/man-quick-system-coding-vgsda2t7d5tu7o9x.gif" alt="Image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxicking-techguru&label=Profile%20views&color=0e75b6&style=flat" alt="toxicking-techguru" /> </p>
@@ -15,10 +15,9 @@
 
 - 💬 Ask me bout **Quality planning: Software-QFD Product Innovation: Brainstorming, Innovation algorithms . Software analysis, arhitecture and design:: Brainstorming Mind-Map Design patterns UML tools and techniques;; Rational Rose, MS Visio, NetBeans, Open Office Draw, Star UML, Togethe**
 
-- 📫 How to reach me **toxicking2659@gmail.com**
+- 📫 How to reach me **fettymikev@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/toxicking-techguru/education-and-cv](https://github.com/toxicking-techguru/education-and-cv)
-- - 📄 My portfolio [http://brian.xenneotechs.com/)
+
 
 
 ### Blogs posts
