@@ -15,7 +15,7 @@
 
 - 💬 Ask me bout **Quality planning: Software-QFD Product Innovation: Brainstorming, Innovation algorithms . Software analysis, arhitecture and design:: Brainstorming Mind-Map Design patterns UML tools and techniques;; Rational Rose, MS Visio, NetBeans, Open Office Draw, Star UML, Togethe**
 
-- 📫 How to reach me **fettymikev@gmail.com**
+- 📫 How to reach me ****
 
 
 
